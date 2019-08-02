@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ua</groupId>
 	<artifactId>senera</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.0.1-SNAPSHOT</version>
 	<name>senera</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -33,11 +33,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-        <dependency>
-            <groupId>com.ua</groupId>
-            <artifactId>senera</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+
     </dependencies>
 
 	<build>
@@ -49,7 +45,7 @@
 		</plugins>
 	</build>
 
-	
+
 
 
 </project>
